@@ -71,7 +71,7 @@ Clone o projeto:
 Copiar
 Editar
 git clone https://github.com/seu-usuario/bootcamp-dio-py.git
-Navegue até o diretório:
+Navegue até o diretório:::
 ```
 
 ```bash
