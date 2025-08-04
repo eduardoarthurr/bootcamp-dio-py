@@ -57,12 +57,15 @@ O principal objetivo deste repositório é servir como base de consulta e aprend
 ```bash
 bootcamp-dio-python/
 ├── 01-conhecendo-a-linguagem/
+│   ├── conhecendo-a-linguagem.md
 │   ├── convertendo_tipos.py
 │   ├── primeiro_programa.py
 │   └── variaveis_constantes.py
 ├── 02-dio-git-github/
+│   └── git-github.md
 └── README.md
 ```
+
 
 📎 Como usar este repositório
 Clone o projeto:
