@@ -51,7 +51,7 @@ $ git commit -m "mensagem"
 $ git remote add origin  https://github.com/username/nome-do-repositorio.git
 → Indica qual caminho do para o repositório remoto que deseja.
 
-$ git push → “empurra” as alterações do repositório local para o remoto.
+$ git push -u origin main → “empurra” as alterações do repositório local para o remoto.
 
 $ git status → visualização de todos os arquivos que que foram adicionados ou não ao repositório 
 ```
