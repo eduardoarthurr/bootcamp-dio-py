@@ -54,15 +54,22 @@ O principal objetivo deste repositório é servir como base de consulta e aprend
 
 ## 🚀 Estrutura do Repositório
 
-```bash
+``` bash
 bootcamp-dio-python/
-├── 01-conhecendo-a-linguagem/
+├── 01_conhecendo-a-linguagem/
 │   ├── conhecendo-a-linguagem.md
 │   ├── convertendo_tipos.py
 │   ├── primeiro_programa.py
 │   └── variaveis_constantes.py
-├── 02-dio-git-github/
+├── 02_dio-git-e-github/
 │   └── git-github.md
+├── 03_sintaxe-basica/
+│   ├── 01_operadores_aritmeticos.py
+│   ├── 02_operadores_comparacao.py
+│   ├── 03_operadores_atribuicao.py
+│   ├── 04_operadores_logicos.py
+│   ├── 05_operadores_identidade.py
+│   └── 06_operadores_associacao.py
 └── README.md
 ```
 
