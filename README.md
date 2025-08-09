@@ -58,8 +58,8 @@ O principal objetivo deste repositório é servir como base de consulta e aprend
 bootcamp-dio-python/
 ├── 01_conhecendo-a-linguagem/
 │   ├── 01_hello_world.py
-│   ├── 02_convertendo_tipos.py
-│   ├── 03_variaveis_constantes.py
+│   ├── 02_variaveis_constantes.py
+│   ├── 03_convertendo_tipos.py
 │   └── conhecendo-a-linguagem.md
 ├── 02_dio-git-e-github/
 │   └── git-github.md
