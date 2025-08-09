@@ -57,10 +57,10 @@ O principal objetivo deste repositório é servir como base de consulta e aprend
 ``` bash
 bootcamp-dio-python/
 ├── 01_conhecendo-a-linguagem/
-│   ├── conhecendo-a-linguagem.md
-│   ├── convertendo_tipos.py
-│   ├── primeiro_programa.py
-│   └── variaveis_constantes.py
+│   ├── 01_hello_world.py
+│   ├── 02_convertendo_tipos.py
+│   ├── 03_variaveis_constantes.py
+│   └── conhecendo-a-linguagem.md
 ├── 02_dio-git-e-github/
 │   └── git-github.md
 ├── 03_sintaxe-basica/
